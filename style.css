@@ -152,113 +152,17 @@ header{
         justify-content: space-around;
         align-content: center;
     }
+    .address p{
+        text-align: center;
+        font-size:15px;
+        padding:10px;
+        color:rgb(0, 110, 255);
+    }
     .contact{
         text-decoration: none;
         color:black;
         font-size:13px;
         justify-content: space-around;
         align-content: center;
-    }
-}
-@media all and (max-width:981px) {
-    .interesting {
-    display:block;
-}
-.menubar ul {
-    list-style: none;
-    font-size:13px;
-    display: flex;
-    justify-content: flex-start;
-    align-content: center;
-}
-.iam {
-    text-align: center;
-    font-size:10px;
-    padding: 0px;
-    padding-top:0px;
-}
-.iamimage {
-    width:50%;
-    height:auto;
-    border:1px solid black;
-}
-.iam p{
-    padding:0px;
-    margin:5px;
-}
-.contact{
-    text-decoration: none;
-    color:black;
-    font-size:13px;
-    justify-content: flex-start;
-    margin:5px;
-}
-}
-@media all and (max-width:768px) {
-    .interesting {
-        display:block;
-    }
-    .menubar ul {
-        list-style: none;
-        font-size:13px;
-        display: flex;
-        justify-content: flex-start;
-        align-content: center;
-    }
-    .iam {
-        text-align: center;
-        font-size:10px;
-        padding: 0px;
-        padding-top:0px;
-    }
-    .iamimage {
-        width:50%;
-        height:auto;
-        border:1px solid black;
-    }
-    .iam p{
-        padding:0px;
-        margin:5px;
-    }
-    .contact{
-        text-decoration: none;
-        color:black;
-        font-size:13px;
-        justify-content: flex-start;
-        margin:5px;
-    }
-}
-@media all and (max-width:640px) {
-    .interesting {
-        display:block;
-    }
-    .menubar ul {
-        list-style: none;
-        font-size:13px;
-        display: flex;
-        justify-content: flex-start;
-        align-content: center;
-    }
-    .iam {
-        text-align: center;
-        font-size:10px;
-        padding: 0px;
-        padding-top:0px;
-    }
-    .iamimage {
-        width:50%;
-        height:auto;
-        border:1px solid black;
-    }
-    .iam p{
-        padding:0px;
-        margin:5px;
-    }
-    .contact{
-        text-decoration: none;
-        color:black;
-        font-size:13px;
-        justify-content: flex-start;
-        margin:5px;
     }
 }

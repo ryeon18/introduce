@@ -160,3 +160,61 @@ header{
         align-content: center;
     }
 }
+@media all and (max-width:981px) {
+    .interesting {
+    display:block;
+}
+.menubar ul {
+    list-style: none;
+    font-size:13px;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+.contact{
+    text-decoration: none;
+    color:black;
+    font-size:13px;
+    justify-content: space-around;
+    align-content: center;
+}}
+
+@media all and (max-width:768px) {
+    .interesting {
+        display:block;
+    }
+    .menubar ul {
+        list-style: none;
+        font-size:13px;
+        display: flex;
+        justify-content: space-around;
+        align-content: center;
+    }
+    .contact{
+        text-decoration: none;
+        color:black;
+        font-size:13px;
+        justify-content: space-around;
+        align-content: center;
+    }
+}
+
+@media all and (max-width:640px) {
+    .interesting {
+        display:block;
+    }
+    .menubar ul {
+        list-style: none;
+        font-size:13px;
+        display: flex;
+        justify-content: space-around;
+        align-content: center;
+    }
+    .contact{
+        text-decoration: none;
+        color:black;
+        font-size:13px;
+        justify-content: space-around;
+        align-content: center;
+    }
+}

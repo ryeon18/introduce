@@ -168,8 +168,23 @@ header{
     list-style: none;
     font-size:13px;
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-start;
     align-content: center;
+}
+.iam {
+    text-align: center;
+    font-size:10px;
+    padding: 0px;
+    padding-top:0px;
+}
+.iamimage {
+    width:50%;
+    height:auto;
+    border:1px solid black;
+}
+.iam p{
+    padding:0px;
+    margin:5px;
 }
 .contact{
     text-decoration: none;

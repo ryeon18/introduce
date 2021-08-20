@@ -146,6 +146,7 @@ header{
 @media(max-width:1000px){
     .interesting {
         display:block;
+        font-size:10px;
     }
     .menubar ul {
         list-style: none;
@@ -168,6 +169,11 @@ header{
         padding:20px;
         margin:5px;
     }
+    .tobe p{
+        font-size: 10px;
+        padding:20px;
+        margin:5px;
+    }
     .address p{
         text-align: center;
         font-size:10px;
@@ -177,7 +183,7 @@ header{
     .contact{
         text-decoration: none;
         color:black;
-        font-size:13px;
+        font-size:10px;
         align-content: center;
     }
 }

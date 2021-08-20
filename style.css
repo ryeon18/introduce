@@ -181,7 +181,6 @@ header{
         font-size:10px;
         padding:50px;
         padding-top:100px;
-        margin:50px;
     }
     .doit{
         width:60%;
@@ -197,6 +196,12 @@ header{
         text-decoration: underline;
         color:black;
         font-size:13px;
+    }
+    .ct{
+        margin-top:50px;
+        width:100%;
+        height:auto;
+        border:1px solid black;
     }
     .address p{
         text-align: center;

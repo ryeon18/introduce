@@ -83,23 +83,22 @@ header{
     border-radius: 20%;
 }
 #wish{
-    display:flex;
-    justify-content: center;
-    align-content: center;
+    text-align:center;
     padding:150px;
 }
 .tobe {
     text-align: center;
     font-size:20px;
+    padding:50px;
+    padding-top:100px;
 }
 .doit{
-    width:40%;
+    width:60%;
     height:auto;
     border:1px solid black;
 }
 .tobe p{
     font-size: 20px;
-    padding:20px;
     margin:5px;
 }
 .masako, .appmaker {

@@ -63,6 +63,7 @@ header{
     display:grid;
     grid-template-columns: 350px 350px 350px;
     grid-template-rows: repeat(2,350px);
+    font-size: 20px;
 }
 .interestp {
     text-align: center;
@@ -97,6 +98,7 @@ header{
     border:1px solid black;
 }
 .tobe p{
+    font-size: 20px;
     padding:20px;
     margin:5px;
 }

@@ -168,10 +168,26 @@ header{
         padding:20px;
         margin:5px;
     }
+    .tobe {
+        text-align: center;
+        font-size:10px;
+        padding:50px;
+        padding-top:100px;
+    }
+    .doit{
+        width:80%;
+        height:auto;
+        border:1px solid black;
+    }
     .tobe p{
         font-size: 10px;
-        padding:20px;
         margin:5px;
+    }
+    .masako, .appmaker {
+        font-weight: bold;
+        text-decoration: underline;
+        color:black;
+        font-size:13px;
     }
     .address p{
         text-align: center;
